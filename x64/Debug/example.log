@@ -1,0 +1,10 @@
+﻿  books.cpp
+  customer.cpp
+  database-main.cpp
+  database.cc
+  deal.cpp
+  delivery.cpp
+  orders.cpp
+  worker.cpp
+  Generating Code...
+  example.vcxproj -> C:\Users\sharo\Documents\code\mysql-with-cpp-master\x64\Debug\example.exe
